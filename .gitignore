@@ -11,3 +11,5 @@ target/
 # Gradle
 .gradle/
 build/
+
+/Task 2/employee-service/target/
