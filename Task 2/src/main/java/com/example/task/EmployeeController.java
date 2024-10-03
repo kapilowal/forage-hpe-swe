@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
-import java.util.Map;
 import java.util.HashMap;
+import java.util.Map;
 
 @RestController
 @RequestMapping("/employees")
@@ -24,7 +24,7 @@ public class EmployeeController {
     public ResponseEntity<Map<String, List<Employee>>> getEmployees() {
         List<Employee> employees = employeeManager.getAllEmployees();
         Map<String, List<Employee>> response = new HashMap<>();
-        response.put("Employees", employees);
+        response.put("employees", employees); // Changed to lowercase to match expected JSON
         return ResponseEntity.ok(response);
     }
 }
