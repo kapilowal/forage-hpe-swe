@@ -3,7 +3,7 @@
 ## Task Overview
 
 ### Task 1: Create a Proposal for a RESTful Web Service
-- **Description**: Wrote a brief proposal for an employee management RESTful API using Java Spring Boot and HPE GreenLake.
+- **Description**: Write a brief proposal for an employee management RESTful API using Java Spring Boot and HPE GreenLake.
 - **File**: [Task 1: Feature Proposal](Task%201/Feature%20Proposal.md)
 
 ### Task 2: Build a Basic RESTful Web Service
@@ -15,5 +15,5 @@
 - **File**: [Task 3: Java Files](Task%203/src/main/java/com/example/task/)
 
 ### Task 4: Create Unit Tests
-- **Description**:
-- **File**:
+- **Description**: Write unit tests for the EmployeeController to enusre correct functionality for adding and retrieving employees.
+- **File**: [Task 4: Unit Tests](Task%204/)
