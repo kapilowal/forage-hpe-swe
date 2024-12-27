@@ -17,3 +17,6 @@
 ### Task 4: Create Unit Tests
 - **Description**: Write unit tests for the EmployeeController to enusre correct functionality for adding and retrieving employees.
 - **File**: [Task 4: Unit Tests](Task%204/)
+
+## Certificate of Completion
+I've successfully completed the JPMorgan Chase Software Engineering Virtual Internship. You can view my certificate [here](assets/HPE-%20Software%20Engineering.pdf).
